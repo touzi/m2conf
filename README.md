@@ -4,11 +4,19 @@ For GoAgent
 本工具为批量选择GCC IP 工具。
 
 ## Requirements ##
-* Python2.7.6 (recommend)
+* [Python 2.7](https://www.python.org/downloads/) (recommend)
 * Linux/Mac/Windows
+* [requests](https://pypi.python.org/pypi/requests)
 
 ## How to use ##
-python set_goagent.py
+1. install [python 2.7](https://www.python.org/downloads/)
+    Mac
+    ```brew install python```
+    Ubuntu
+    ```sudo apt-get install python```
+2. install [requests](https://pypi.python.org/pypi/requests)
+    ```pip install requests```
+3. python set_goagent.py
 
 ## For Chinese ##
 
