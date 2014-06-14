@@ -9,13 +9,13 @@ For GoAgent
 * [requests](https://pypi.python.org/pypi/requests)
 
 ## How to use ##
-1. install [python 2.7](https://www.python.org/downloads/)
-    Mac
-    ```brew install python```
-    Ubuntu
+1. install [python 2.7](https://www.python.org/downloads/)  
+    Mac  
+    ```brew install python```  
+    Ubuntu  
     ```sudo apt-get install python```
-2. install [requests](https://pypi.python.org/pypi/requests)
-    ```pip install requests```
+2. install [requests](https://pypi.python.org/pypi/requests)  
+    ```pip install requests``` 
 3. python set_goagent.py
 
 ## For Chinese ##
